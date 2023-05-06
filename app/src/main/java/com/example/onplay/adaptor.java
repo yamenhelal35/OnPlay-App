@@ -1,4 +1,4 @@
-package com.example.marvel;
+package com.example.onplay;
 
 import android.content.Context;
 import android.support.annotation.NonNull;

@@ -1,4 +1,4 @@
-package com.example.marvel;
+package com.example.onplay;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;

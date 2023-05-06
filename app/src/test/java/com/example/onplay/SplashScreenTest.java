@@ -1,4 +1,4 @@
-package com.example.marvel;
+package com.example.onplay;
 
 import junit.framework.TestCase;
 

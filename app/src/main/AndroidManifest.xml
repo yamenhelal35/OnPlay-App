@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.marvel">
+    package="com.example.onplay">
 
     <application
         android:allowBackup="true"
@@ -10,34 +10,34 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MARVEL">
         <activity
-            android:name="com.example.marvel.DisplayScreen"
+            android:name="com.example.onplay.DisplayScreen"
             android:exported="false" />
         <activity
-            android:name="com.example.marvel.N12"
+            android:name="com.example.onplay.N12"
             android:exported="false" />
         <activity
-            android:name="com.example.marvel.N11"
+            android:name="com.example.onplay.N11"
             android:exported="false" />
         <activity
-            android:name="com.example.marvel.N10"
+            android:name="com.example.onplay.N10"
             android:exported="false" />
         <activity
-            android:name="com.example.marvel.M8"
+            android:name="com.example.onplay.M8"
             android:exported="false" />
         <activity
-            android:name="com.example.marvel.M5"
+            android:name="com.example.onplay.M5"
             android:exported="false" />
         <activity
-            android:name="com.example.marvel.M4"
+            android:name="com.example.onplay.M4"
             android:exported="false" />
         <activity
-            android:name="com.example.marvel.M3"
+            android:name="com.example.onplay.M3"
             android:exported="false" />
         <activity
-            android:name="com.example.marvel.M2"
+            android:name="com.example.onplay.M2"
             android:exported="false" />
         <activity
-            android:name="com.example.marvel.MainActivity"
+            android:name="com.example.onplay.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -45,7 +45,7 @@
             </intent-filter>
         </activity>
 
-        <receiver android:name="com.example.marvel.NotificationBroadcast" />
+        <receiver android:name="com.example.onplay.NotificationBroadcast" />
 
     </application>
 
