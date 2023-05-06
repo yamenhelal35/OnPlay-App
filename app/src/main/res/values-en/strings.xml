@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MARVEL</string>
+    <string name="enter_your_username">Enter Your Username</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="example_mail_com">Example@mail.com</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="home">HOME</string>
+    <string name="characters">CHARACTERS</string>
+    <string name="about">ABOUT</string>
+    <string name="contact_us">CONTACT US</string>
+    <string name="character">CHARACTER</string>
+    <string name="story">Story</string>
+    <string name="sony_playStation_store">Sony Playstation Store</string>
+    <string name="game_studio">Game Studio</string>
+    <string name="trailer">Trailer</string>
+    <string name="_download">Download</string>
+</resources>

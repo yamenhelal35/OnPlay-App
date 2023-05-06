@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MARVEL</string>
+    <string name="enter_your_username">أدخل كلمة المستخدم</string>
+    <string name="enter_your_password">أدخل كلمة المرور</string>
+    <string name="sign_in">تسجيل دخول</string>
+    <string name="example_mail_com">Example@mail.com</string>
+    <string name="password">كلمة السر</string>
+    <string name="sign_up">تسجيل حساب جديد</string>
+    <string name="home">الصفحة الرئيسية</string>
+    <string name="characters">الشخصيات</string>
+    <string name="about">معلومات</string>
+    <string name="contact_us">تواصل معنا</string>
+    <string name="character">الشخصيات</string>
+    <string name="_download">تحميل</string>
+    <string name="trailer">مقطع تروجي</string>
+    <string name="story">قصه</string>
+    <string name="game_studio">استوديو اللعبة</string>
+    <string name="sony_playStation_store">متجر سونى للألعاب</string>
+</resources>
